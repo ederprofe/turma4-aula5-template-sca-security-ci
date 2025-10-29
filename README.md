@@ -1,6 +1,6 @@
 # Aula 05 – Shift Security Left / SCA / Proteção de Credenciais
 
-Este repositório é o **template** da atividade da Aula 05. Você (aluno) deve:
+Este repositório é o **template** da atividade da Aula 05. Você deve:
 1. Clonar o *repo* criado automaticamente pelo GitHub Classroom a partir deste template.
 2. Executar os testes localmente (`pytest`).
 3. Comitar e *push* do código.
